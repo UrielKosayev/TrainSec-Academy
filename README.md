@@ -1,4 +1,4 @@
-# EDetection Engineering Professional: Attack Simulation & Defense
+# Detection Engineering Professional: Attack Simulation & Defense
 https://trainsec.net/courses/detection-engineering-attack-simulation-defense/
 # EDR Internals: Research and Development
 https://trainsec.net/courses/edr-internals-research-development/
