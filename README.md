@@ -9,7 +9,7 @@ https://trainsec.net/windows-security-researcher/
 # Malware Analyst Professional - Level 1
 https://trainsec.net/malware-analyst-professional-level-1
 # Malware Analyst Professional - Level 2
-https://trainsec.net/malware-analyst-professional-level-2
+https://trainsec.net/courses/malware-analyst-professional-level-2/
 # Malware Analysis and Development Course
 https://trainsec.net/malware-analysis-and-development-recorded
 # Cybersecurity Foundations: Systems, Networking & Active Directory
